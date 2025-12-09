@@ -1,4 +1,4 @@
-# Laporan Analisis Data Universities KNIMe
+# Laporan Analisis Data Universities KNIME
 ## 💻Pendahuluan
 Proyek ini mendemonstrasikan proses analisis data end-to-end (dari pembersihan data hingga visualisasi) menggunakan platform alur kerja KNIME Analytics Platform.
 
